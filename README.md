@@ -1,16 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FACC2E&height=300&section=header&text=Hyun%20Sik%20Hub&fontSize=90)
+
 Welcome to my Git Hub.
 =============
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustlrtbvj&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustlrtbvj&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-김현식
+Personal Info
 -------------
-학력 : 목포대학교 전기공학과    
-주거지 : 광주광역시    
-이메일 : gustlrtbvj@naver.com    
+Hyun sik Kim
+Mokpo National University - Electrical engineering major
+e-mail : gustlrtbvj@naver.com
 
-기술
+
+
+Tool
 -------------
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
