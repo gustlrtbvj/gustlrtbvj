@@ -48,7 +48,9 @@ Tool
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
   
+  
+  You don't have to be perfect. If you know where and what's there
 </div>
 
-You don't have to be perfect. If you know where and what's there,
--------------
+
+
