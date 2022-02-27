@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FACC2E&height=300&section=header&text=Hyun%20Sik%20Hub&fontSize=90)
+
 
 Welcome to my Git Hub.
 =============
@@ -11,7 +11,6 @@ Personal Info
 Hyun sik Kim
 Mokpo National University - Electrical engineering major
 e-mail : gustlrtbvj@naver.com
-
 
 
 Tool
@@ -48,6 +47,6 @@ Tool
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
   
   
-완벽할 필요는 없다 어디에 무엇이 있는지 알자
+You don't have to be perfect. If you know where and what's there,
 </div>
 
