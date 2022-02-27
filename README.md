@@ -8,11 +8,11 @@ Welcome to my Git Hub.
 
 Personal Info
 -------------
-Age : 26
-Name : Hyun sik Kim 
-Address : South Korea, Gwangju, Nam-gu
-Education: Mokpo National University - Electrical engineering major
-e-mail : gustlrtbvj@naver.com
+Age : 26    
+Name : Hyun sik Kim     
+Address : South Korea, Gwangju, Nam-gu     
+Education: Mokpo National University - Electrical engineering major     
+e-mail : gustlrtbvj@naver.com     
 
 
 Tool
